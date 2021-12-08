@@ -1,5 +1,8 @@
 <?php 
 /*INSTALLER*/
+//this can run only one once
+
+
  ?>
  <!DOCTYPE html>
  <html>
